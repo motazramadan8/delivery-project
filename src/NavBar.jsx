@@ -18,10 +18,7 @@ const NavBar = () => {
                         <Nav.Link className='navlink active ' style={{marginLeft: '50px' , fontWeight: '700'}} href="#home">Services</Nav.Link>
                         <Nav.Link className='navlink active ' style={{marginLeft: '50px' , fontWeight: '700'}} href="#link">Contact us</Nav.Link>
                         <Nav.Link className='navlink active ' style={{marginLeft: '50px' , fontWeight: '700'}} href="#home">
-                        <label class="switch">
-                            <input type="checkbox"/>
-                            <span class="slider round"></span>
-                        </label>
+                        
                         </Nav.Link>
                     </Nav>
 
